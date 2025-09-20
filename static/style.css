@@ -253,6 +253,7 @@ button#clear-search:hover {
 #tag_salad:before { content: "🥗" ;}
 #tag_sandwich:before { content: "🥪" ;}
 #tag_seafood:before { content: "🦐" ; }
+#tag_shrimp:before { content: "🦐" ; }
 #tag_soup:before { content: "🍜" ;}
 #tag_sourdough:before { content: "🥖" ;}
 #tag_southwest:before { content: "🤠" ; }

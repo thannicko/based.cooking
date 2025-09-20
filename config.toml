@@ -1,6 +1,6 @@
-baseURL = 'https://based.cooking/'
+baseURL = 'https://thannicko.github.io/based.cooking/'
 languageCode = 'en-us'
-title = 'Based Cooking'
+title = "Thannicko's Based Cooking"
 theme = 'lugo'
 
 [params]
